@@ -1,1 +1,1 @@
-A simple thread-safe LRU implemented in Rust
+A simple LRU implemented in Rust
